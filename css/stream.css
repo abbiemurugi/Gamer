@@ -1,0 +1,183 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(231, 222, 222);
+}
+
+.navS input{
+    float: left;
+    padding: 4px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-size: 17px;
+}
+
+.navS button{
+    margin-top: 10px;
+    padding-bottom: 4px;
+}
+
+.navS{
+    width: 100%;
+    background: rgb(54, 21, 77);
+    overflow: auto;
+}
+
+.navS ul{
+    padding: 0;
+    margin: 0 0 0 150px;
+    list-style: none;
+}
+
+.navS li{
+    float: right;
+    padding-right: 100px;
+    text-decoration: none;
+}
+
+.navS a{
+    width: 100px;
+    display: block;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-family: Arial;
+    color: #b3b5cf;
+    text-align: center;
+}
+
+.logo{
+    position: absolute;
+    margin-left: 10px;
+    height: 100px;
+    width: 20%;
+    color: rgb(232, 223, 236);
+    font-size: 45px;
+    font-family: 'Merienda One', cursive;
+}
+
+.card{
+    width: 15rem;
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+#image1{
+    height: 330px;
+}
+
+#image2{
+    height: 330px;
+}
+
+#image3{
+    height: 330px;
+}
+
+#image1 img{
+    height: 150px;
+}
+
+#image2 img{
+    height: 150px;
+}
+
+#image3 img{
+    height: 150px;
+}
+
+#image1 h6{
+    font-size: 13px; 
+    padding-bottom: 50px;
+}
+
+#image1 p{
+    margin: 0 0 0 0px;
+}
+
+#image2 h6{
+    font-size: 13px; 
+    padding-bottom: 50px;
+}
+
+#image2 p{
+    margin: 0 0 0 0px;
+}
+
+#image3 h6{
+    font-size: 13px; 
+    padding-bottom: 50px;
+}
+
+#image3 p{
+    margin: 0 0 0 0px;
+}
+
+.col-md-4{
+    padding-left: 100px;
+}
+
+#image4{
+    height: 330px;
+}
+
+#image5{
+    height: 330px;
+}
+
+#image6{
+    height: 330px;
+}
+
+#image4 img{
+    height: 150px;;
+}
+
+#image5 img{
+    height: 150px;
+}
+
+#image6 img{
+    height: 150px;;
+}
+
+#image4 h6{
+    font-size: 13px; 
+    padding-bottom: 50px;
+}
+
+#image4 p{
+    margin: 0 0 0 0px;
+}
+
+#image5 h6{
+    font-size: 13px; 
+    padding-bottom: 50px;
+}
+
+#image5 p{
+    margin: 0 0 0 0px;
+}
+
+#image6 h6{
+    font-size: 13px; 
+    padding-bottom: 50px;
+}
+
+#image6 p{
+    margin: 0 0 0 0px;
+}
+
+.previous a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    color: #000;
+
+}
+  
+  .round {
+    border-radius: 50%;
+  }
+
+
